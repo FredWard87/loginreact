@@ -5,11 +5,11 @@
 ## 👾 Clonar el Repositorio
 En la terminal git bash usar el siguiente comando
 
-```git clone https://github.com/111linblink/AplicacionesWeb.git```
+```git clone https://github.com/FredWard87/loginreact.git```
 
 Este comando debe ponerse abriendo el git bash en la carpeta que desees 
 
-## 🧩 Dependencias
+##  Dependencias
 <h2 align="center"> 2.Instalar lo siguiente una vez creado el proyecto.</h2>
 
 **Descargar los node modules.**
@@ -30,7 +30,7 @@ Una vez instalado lo anterior deberas abrir otra terminal en Visual Studio Code 
 **Esto para definir el puerto del *JSON Server***
 
 
-## 🌐 Desplejar el proyecto
+## Desplejar el proyecto
 Para desplejar el proyecto en tu navegador web favorito deberas colocar el siguiente comando
 - ```npm start```
 
@@ -43,6 +43,6 @@ Para desplejar el proyecto en tu navegador web favorito deberas colocar el sigui
 
 # 🗿 Grupo
 GDS0551
-# 😎 Alumno
-Fernando Martínez Rodríguez
+#  Alumno
+Fredy Alonso Esparza Campuzano
 
